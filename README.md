@@ -1,12 +1,6 @@
 # Lumen Design System
 
-**Professional component documentation system. Zero fluff.**
-
-[![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen)]()
-[![Components](https://img.shields.io/badge/Components-48-blue)]()
-[![Coverage](https://img.shields.io/badge/Coverage-100%25-brightgreen)]()
-
----
+**Lumen Brain**
 
 ## 🎯 Overview
 
